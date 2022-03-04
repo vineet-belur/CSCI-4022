@@ -11,4 +11,4 @@ Just documenting my homeworks. Class has been pretty fun so far.
 
 4 - GMM's(ignore my proof its super wrong)
 
-5 - a priori(only 2-pass implemented, can easily extend for k-passes/k-candidate implementations tho)
+5 - a priori(only 2-pass implemented, can easily extend for k-passes/k-candidate implementations tho), need to do EC - have extra week thankfully 🙏
