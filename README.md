@@ -3,7 +3,7 @@ From CSCI 4022 - Advanced Data Sci
 
 Just documenting my homeworks. Class has been pretty fun so far.
 
-1 - intro hw 
+1 - intro hw /n\n
 2 - minhashing
 3 - kmeans
 4 - GMM's(ignore my proof its super wrong)
