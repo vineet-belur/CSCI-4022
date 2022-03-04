@@ -7,7 +7,7 @@ Just documenting my homeworks. Class has been pretty fun so far.
 
 2 - minhashing
 
-3 - kmeans
+3 - kmeans(need to go grab my version off mac air, missing q3)
 
 4 - GMM's(ignore my proof its super wrong)
 
